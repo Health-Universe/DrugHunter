@@ -1,0 +1,10 @@
+scikit-learn
+xgboost
+lightgbm
+streamlit
+#scikit-learn-intelex
+tensorflow
+chembl-webresource-client
+pandas
+rdkit
+streamlit-extras
